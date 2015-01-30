@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f529bcc9b6ac348aa94f6396a37f4111
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - Gothic 821 Condensed BT
+  - Arial
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 
